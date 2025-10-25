@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="container mx-auto">
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div className="space-y-4">
-            <h3 className="text-lg font-semibold gradient-text">CareerIQ</h3>
+            <h3 className="text-lg font-semibold gradient-text">Career Campus</h3>
             <p className="text-sm text-muted-foreground">
               Transform your career with AI-powered intelligence and peer benchmarking.
             </p>
@@ -41,7 +41,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-border/50 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
-          <p>&copy; 2025 CareerIQ. All rights reserved.</p>
+          <p>&copy; 2025 Career Campus. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-primary transition-colors">Twitter</a>
             <a href="#" className="hover:text-primary transition-colors">LinkedIn</a>
